@@ -1,0 +1,3 @@
+# DBeaver Ultimate
+
+Utility scaffolding.
